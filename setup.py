@@ -3,7 +3,7 @@ from distutils.core import setup
 
 setup(
     name='mock_helpers',
-    version='0.1.0',
+    version='0.1.1',
     author='Daniel Watkins',
     author_email='daniel@daniel-watkins.co.uk',
     url='http://pypi.python.org/pypi/mock_helpers',
