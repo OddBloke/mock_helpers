@@ -18,4 +18,5 @@ setup(
         "Programming Language :: Python :: 2.6",
         "Topic :: Software Development :: Testing",
     ],
+    requires=['mock'],
 )
